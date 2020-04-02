@@ -1,0 +1,15 @@
+.jumbotron {
+	height: 800px;
+	background-image: url("space.jpg");
+	color: white;
+
+}
+@media only screen and (max-width: 700px) {
+	.jumbotron {
+	height: 500px;
+	background-image: url("spacee.jpg");
+	
+	background-repeat: no-repeat;
+
+}
+
